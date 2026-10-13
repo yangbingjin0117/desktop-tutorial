@@ -7,13 +7,13 @@
 * **家鄉 / Hometown:** 高雄[cite: 1]
 * **Email:** [Yangbingjin005@gmail.com](mailto:Yangbingjin005@gmail.com)[cite: 1]
 * **GitHub:** [yangbingjin0117](https://github.com/yangbingjin0117/desktop-tutorial/edit/main/README.md)[cite: 1]
+### 個人照片
+<!-- 請將您的個人頭貼照存成 JPG 檔（例如 profile.jpg），並放入 image 資料夾中 -->
+<p align="center">
+  <img src="image/profile.jpg" alt="個人照片" width="300px">
+</p><img width="771" height="599" alt="螢幕擷取畫面 2025-01-10 234401" src="https://github.com/user-attachments/assets/ad05d51b-d4f8-40ec-a445-1638ccb7727d" />
 
-### 個人照片與插圖
-<!-- 請將您的個人照片放在 repository 的 image 資料夾中，並取消下方註解來顯示照片 -->
-<!-- ![個人照片](image/profile.jpg) -->
 
-![Medial surface of the brain](image/brain.png)
-*Medial surface of the brain (III) — Amygdala / Hippocampus*[cite: 1, 2]
 
 ---
 
