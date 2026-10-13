@@ -11,6 +11,8 @@
 <!-- 請將您的個人頭貼照存成 JPG 檔（例如 profile.jpg），並放入 image 資料夾中 -->
 <p align="center">
   <img src="image/profile.jpg" alt="個人照片" width="300px">
+  <img width="720" height="724" alt="profile jpg" src="https://github.com/user-attachments/assets/320a2457-e901-4b6e-9338-e09eee0411d4" />
+
 
 ## 2. 關於我 About Me
 大家好，我是楊秉津，目前就讀臺灣海洋大學生命科學暨生物科技學系一年級。我對心理學、神經科學、生物資訊很有興趣。進入大學後，我希望除了學習專業知識之外，也能培養程式設計、資料分析與解決問題的能力。
