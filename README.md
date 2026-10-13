@@ -1,32 +1,27 @@
 # 個人簡介 / README
 
 ## 1. 基本資料
-* **姓名 / Name:** 楊秉津[cite: 1]
-* **系級 / Department & Year:** 生命科學暨生物科技學系一年級[cite: 1]
-* **學校 / University:** 臺灣海洋大學[cite: 1]
-* **家鄉 / Hometown:** 高雄[cite: 1]
-* **Email:** [Yangbingjin005@gmail.com](mailto:Yangbingjin005@gmail.com)[cite: 1]
-* **GitHub:** [yangbingjin0117](https://github.com/yangbingjin0117/desktop-tutorial/edit/main/README.md)[cite: 1]
+* **姓名 / Name:** 楊秉津
+* **系級 / Department & Year:** 生命科學暨生物科技學系一年級
+* **學校 / University:** 臺灣海洋大學
+* **家鄉 / Hometown:** 高雄
+* **Email:** [yangbingjin005@gmail.com](mailto:yangbingjin005@gmail.com)
+* **GitHub:** [yangbingjin0117](https://github.com/yangbingjin0117/desktop-tutorial/edit/main/README.md)
 ### 個人照片
 <!-- 請將您的個人頭貼照存成 JPG 檔（例如 profile.jpg），並放入 image 資料夾中 -->
 <p align="center">
   <img src="image/profile.jpg" alt="個人照片" width="300px">
-</p><img width="771" height="599" alt="螢幕擷取畫面 2025-01-10 234401" src="https://github.com/user-attachments/assets/ad05d51b-d4f8-40ec-a445-1638ccb7727d" />
-
-
-
----
 
 ## 2. 關於我 About Me
-大家好，我是楊秉津[cite: 1, 2]，目前就讀臺灣海洋大學生命科學暨生物科技學系一年級[cite: 1, 2]。我對生命科學、電腦與人工智慧很有興趣[cite: 2]。進入大學後，我希望除了學習專業知識之外，也能培養程式設計、資料分析與解決問題的能力[cite: 2]。
+大家好，我是楊秉津，目前就讀臺灣海洋大學生命科學暨生物科技學系一年級。我對生命科學、電腦與人工智慧很有興趣。進入大學後，我希望除了學習專業知識之外，也能培養程式設計、資料分析與解決問題的能力。
 
 ---
 
 ## 3. 我的興趣 Interests
-* **運動：** 籃球、慢跑[cite: 2]
-* **音樂：** 流行音樂[cite: 2]
+* **運動：** 籃球、慢跑
+* **音樂：** 流行音樂
 * **休閒：** 遊戲、電影 (Top Gun、Matrix、Braveheart)[cite: 2]
-* **學習：** Python、AI、生物資訊[cite: 2]
+* **學習：** Python、AI、生物資訊
 
 ---
 
